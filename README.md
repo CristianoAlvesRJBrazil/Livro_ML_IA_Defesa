@@ -30,6 +30,14 @@ Cada capítulo é acompanhado de uma aula prática em formato Google Colab, com 
 
 Novos notebooks serão adicionados à medida que os capítulos forem concluídos.
 
+## 📽️ Slides das aulas
+
+Slides de apoio para uso em sala, um conjunto por capítulo:
+
+| Arquivo | Capítulo | Aula |
+|---|---|---|
+| [capitulo1_fundamentos_IA_ML.pptx](capitulo1_fundamentos_IA_ML.pptx) | 1 | Fundamentos de Inteligência Artificial e Machine Learning — Módulo I |
+
 ### Como usar
 
 1. Abra o notebook desejado no [Google Colab](https://colab.research.google.com/) (menu *File → Open notebook → GitHub* e cole a URL deste repositório).
