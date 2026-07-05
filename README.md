@@ -38,6 +38,7 @@ Slides de apoio para uso em sala, um conjunto por capítulo:
 |---|---|---|
 | [capitulo1_fundamentos_IA_ML.pptx](capitulo1_fundamentos_IA_ML.pptx) | 1 | Fundamentos de Inteligência Artificial e Machine Learning — Módulo I |
 | [capitulo2_modelos_classicos_ML.pptx](capitulo2_modelos_classicos_ML.pptx) | 2 | Modelos Clássicos de Machine Learning para Defesa — Módulo I |
+| [capitulo3_redes_neurais_deep_learning.pptx](capitulo3_redes_neurais_deep_learning.pptx) | 3 | Redes Neurais Artificiais e Deep Learning — Módulo I |
 
 ### Como usar
 
