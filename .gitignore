@@ -1,0 +1,11 @@
+# PDF do livro — não subir para o GitHub
+livro_IA_ML_defesa_7.pdf
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
