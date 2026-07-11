@@ -1,5 +1,18 @@
-# PDF do livro — não subir para o GitHub
+# Versões de trabalho do livro — NÃO subir para o GitHub
+livro_IA_ML_defesa_Completo.pdf
 livro_IA_ML_defesa_7.pdf
+livro_IA_ML_defesa.pdf
+
+# Fonte LaTeX e artefatos de compilação — não versionar
+livro_IA_ML_defesa.tex
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Proposta editorial — não subir
+proposta_ML_AI.pdf
 
 # Jupyter
 .ipynb_checkpoints/
@@ -9,3 +22,7 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+
+# Modelos baixados pelos notebooks
+*.keras
+yolov8n.pt
