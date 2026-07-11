@@ -33,8 +33,9 @@ Cada capítulo é acompanhado de uma aula prática em formato Google Colab, com 
 | [cap7_aprendizado_por_reforco_defesa.ipynb](cap7_aprendizado_por_reforco_defesa.ipynb) | 7 | Aprendizado por reforço profundo: MDP e Bellman num mundo em grade com dilema de desconto, Q-learning tabular vs. iteração de valor, REINFORCE em PyTorch num ambiente de controle 1D, PPO no LunarLander com avaliação orientada à cauda, e reward hacking demonstrado ao vivo |
 | [cap8_robustez_adversarial_defesa.ipynb](cap8_robustez_adversarial_defesa.ipynb) | 8 | Robustez adversarial: ataque de backdoor que passa na validação, exemplos adversariais FGSM e PGD implementados em PyTorch, treinamento adversarial (defesa min-max), curva de robustez comparando modelo comum vs. defendido, e a disciplina de verificação e validação (V&V) |
 | [cap9_ia_embarcada_tempo_real_defesa.ipynb](cap9_ia_embarcada_tempo_real_defesa.ipynb) | 9 | IA embarcada e tempo real: restrições da borda e ambientes negados (DDIL), quantização int8 com TensorFlow Lite, pruning até o colapso, destilação de conhecimento professor→aluno, exportação ONNX e medição de latência no alvo (mediana vs. p95) |
+| [cap10_etica_regulacao_governanca_defesa.ipynb](cap10_etica_regulacao_governanca_defesa.ipynb) | 10 | Ética, regulação e governança: marcos internacionais (CCW, OTAN, AI Act), controle humano significativo (in/on/out of the loop), princípios do DIH mapeados a propriedades técnicas, trilha de auditoria e ficha de modelo (model card) executáveis — o fecho da obra |
 
-Novos notebooks serão adicionados à medida que os capítulos forem concluídos.
+**Os dez capítulos estão disponíveis** — a coleção completa de notebooks acompanha a obra do primeiro modelo clássico à governança da IA de defesa, percorrendo os quatro módulos: Fundamentos e Modelos Clássicos (caps. 1–3), Percepção (caps. 4–6), Decisão Autônoma e Robustez (caps. 7–8) e Operação e Governança (caps. 9–10).
 
 ## 📽️ Slides das aulas
 
