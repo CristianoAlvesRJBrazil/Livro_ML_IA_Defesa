@@ -28,6 +28,7 @@ Cada capítulo é acompanhado de uma aula prática em formato Google Colab, com 
 | [cap2_modelos_classicos_ML_defesa.ipynb](cap2_modelos_classicos_ML_defesa.ipynb) | 2 | Modelos clássicos de ML supervisionado: regressão linear e logística, árvores e florestas aleatórias, SVM, métricas para classes desbalanceadas e pipeline comparativo |
 | [cap3_redes_neurais_deep_learning_defesa.ipynb](cap3_redes_neurais_deep_learning_defesa.ipynb) | 3 | Redes neurais e deep learning: do perceptron ao MLP, retropropagação, CNNs, RNNs/LSTM, regularização, TensorFlow/Keras e PyTorch, e uma CNN de triagem de imagens de sensor contra baseline clássica |
 | [cap4_visao_computacional_defesa.ipynb](cap4_visao_computacional_defesa.ipynb) | 4 | Visão computacional para defesa: IoU, NMS e mAP implementados do zero, detectores de duas etapas (Faster R-CNN) e de uma etapa (YOLO), rastreamento multiobjetivo com Kalman + algoritmo húngaro, sensores SAR/satélite/VANT e pipeline de triagem para vigilância de área |
+| [cap5_processamento_linguagem_natural_defesa.ipynb](cap5_processamento_linguagem_natural_defesa.ipynb) | 5 | PLN para inteligência: pré-processamento, TF-IDF calculado à mão, embeddings distribucionais, classificação temática e de sentimento, detecção de campanhas coordenadas, mecanismo de atenção, tradução neural e pipeline de triagem OSINT |
 
 Novos notebooks serão adicionados à medida que os capítulos forem concluídos.
 
