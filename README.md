@@ -47,6 +47,7 @@ Slides de apoio para uso em sala, um conjunto por capítulo:
 | [capitulo2_modelos_classicos_ML.pptx](capitulo2_modelos_classicos_ML.pptx) | 2 | Modelos Clássicos de Machine Learning para Defesa — Módulo I |
 | [capitulo3_redes_neurais_deep_learning.pptx](capitulo3_redes_neurais_deep_learning.pptx) | 3 | Redes Neurais Artificiais e Deep Learning — Módulo I |
 | [capitulo4_visao_computacional.pptx](capitulo4_visao_computacional.pptx) | 4 | Visão Computacional para Defesa — Módulo II |
+| [capitulo5_processamento_linguagem_natural.pptx](capitulo5_processamento_linguagem_natural.pptx) | 5 | Processamento de Linguagem Natural para Inteligência — Módulo II |
 
 ### Como usar
 
