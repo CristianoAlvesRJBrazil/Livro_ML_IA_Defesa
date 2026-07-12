@@ -51,6 +51,7 @@ Slides de apoio para uso em sala, um conjunto por capítulo:
 | [capitulo6_llm_inteligencia_osint.pptx](capitulo6_llm_inteligencia_osint.pptx) | 6 | Modelos de Linguagem de Grande Escala em Inteligência e OSINT — Módulo II |
 | [capitulo7_aprendizado_por_reforco.pptx](capitulo7_aprendizado_por_reforco.pptx) | 7 | Aprendizado por Reforço Profundo — Módulo III |
 | [capitulo8_robustez_adversarial.pptx](capitulo8_robustez_adversarial.pptx) | 8 | Robustez Adversarial em IA para Defesa — Módulo III |
+| [capitulo9_ia_embarcada_tempo_real.pptx](capitulo9_ia_embarcada_tempo_real.pptx) | 9 | IA Embarcada e Computação em Tempo Real — Módulo IV |
 
 ### Como usar
 
