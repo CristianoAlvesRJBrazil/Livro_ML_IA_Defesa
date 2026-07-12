@@ -50,6 +50,7 @@ Slides de apoio para uso em sala, um conjunto por capítulo:
 | [capitulo5_processamento_linguagem_natural.pptx](capitulo5_processamento_linguagem_natural.pptx) | 5 | Processamento de Linguagem Natural para Inteligência — Módulo II |
 | [capitulo6_llm_inteligencia_osint.pptx](capitulo6_llm_inteligencia_osint.pptx) | 6 | Modelos de Linguagem de Grande Escala em Inteligência e OSINT — Módulo II |
 | [capitulo7_aprendizado_por_reforco.pptx](capitulo7_aprendizado_por_reforco.pptx) | 7 | Aprendizado por Reforço Profundo — Módulo III |
+| [capitulo8_robustez_adversarial.pptx](capitulo8_robustez_adversarial.pptx) | 8 | Robustez Adversarial em IA para Defesa — Módulo III |
 
 ### Como usar
 
