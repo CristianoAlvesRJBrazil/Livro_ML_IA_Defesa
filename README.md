@@ -39,7 +39,7 @@ Cada capítulo é acompanhado de uma aula prática em formato Google Colab, com 
 
 ## 📽️ Slides das aulas
 
-Slides de apoio para uso em sala, um conjunto por capítulo:
+Slides de apoio para uso em sala, um conjunto por capítulo — **os dez capítulos disponíveis**, no mesmo sistema visual:
 
 | Arquivo | Capítulo | Aula |
 |---|---|---|
@@ -52,6 +52,7 @@ Slides de apoio para uso em sala, um conjunto por capítulo:
 | [capitulo7_aprendizado_por_reforco.pptx](capitulo7_aprendizado_por_reforco.pptx) | 7 | Aprendizado por Reforço Profundo — Módulo III |
 | [capitulo8_robustez_adversarial.pptx](capitulo8_robustez_adversarial.pptx) | 8 | Robustez Adversarial em IA para Defesa — Módulo III |
 | [capitulo9_ia_embarcada_tempo_real.pptx](capitulo9_ia_embarcada_tempo_real.pptx) | 9 | IA Embarcada e Computação em Tempo Real — Módulo IV |
+| [capitulo10_etica_regulacao_governanca.pptx](capitulo10_etica_regulacao_governanca.pptx) | 10 | Ética, Regulação e IA em Sistemas de Armas Autônomos — Módulo IV |
 
 ### Como usar
 
