@@ -49,6 +49,7 @@ Slides de apoio para uso em sala, um conjunto por capítulo:
 | [capitulo4_visao_computacional.pptx](capitulo4_visao_computacional.pptx) | 4 | Visão Computacional para Defesa — Módulo II |
 | [capitulo5_processamento_linguagem_natural.pptx](capitulo5_processamento_linguagem_natural.pptx) | 5 | Processamento de Linguagem Natural para Inteligência — Módulo II |
 | [capitulo6_llm_inteligencia_osint.pptx](capitulo6_llm_inteligencia_osint.pptx) | 6 | Modelos de Linguagem de Grande Escala em Inteligência e OSINT — Módulo II |
+| [capitulo7_aprendizado_por_reforco.pptx](capitulo7_aprendizado_por_reforco.pptx) | 7 | Aprendizado por Reforço Profundo — Módulo III |
 
 ### Como usar
 
